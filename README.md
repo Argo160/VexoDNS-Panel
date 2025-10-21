@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="placeholder_link_to_logo.png" alt="VexoDNS Panel Logo" width="150"/> </p>
+  <img src="logo.jpg" alt="VexoDNS Panel Logo" width="150"/> </p>
 <h1 align="center">🛡️ Adguard DNS User Management Panel</h1>
 <p align="center">
   A powerful, multi-user web panel for managing AdGuard Home with enhanced features like time/volume limits, automatic HTTPS, and SNI integration.
