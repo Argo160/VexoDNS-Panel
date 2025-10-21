@@ -82,7 +82,8 @@ We plan to release the source code publicly once sufficient community support an
 
 If you find this panel useful and wish to support its development and public release, please consider donating:
 
-* **USDT (TRC20):** `TQCmU1ZF4hN6Q4k6n5xQbrXn2Ndwkr1sPg`
+* **USDT (BEP20 Network - BSC):**
+    `0x3729348A169359a8Aa70a0627f3737aF4c6D1929`
 
 <p align="center">
   <img src="https://img.shields.io/badge/USDT_(TRC20)-Donate-blue?logo=tether&color=26A17B" alt="Donate USDT TRC20"/>
