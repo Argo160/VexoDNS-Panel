@@ -45,7 +45,6 @@ Each user receives a unique subscription link (`/sub/<unique_token>`) which prov
 
 <p align="center">
   <img src="sub.PNG" alt="Subscription Page Screenshot" width="700"/>
-  <br><em>(Replace placeholder_link_to_sub_screenshot.png with an actual screenshot URL)</em>
 </p>
 
 ## 📱 Client Applications
@@ -62,7 +61,6 @@ These apps streamline the connection process for users.
 **Main Dashboard:**
 <p align="center">
   <img src="main.PNG" alt="Main Dashboard Screenshot" width="700"/>
-  <br><em>(Replace placeholder_link_to_main_screenshot.png with an actual screenshot URL)</em>
 </p>
 
 ## 🛠️ Installation
