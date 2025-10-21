@@ -67,7 +67,7 @@ These apps streamline the connection process for users.
 
 ## 🛠️ Installation
 
-Installation is handled via a bash script (`client-panell21.sh` provided separately) designed for Debian/Ubuntu systems. It sets up the Python environment, necessary services (Flask app, Helper service), HAProxy configuration, and permissions.
+Installation is handled via a bash script (`vexopanel.sh` provided separately) designed for Debian/Ubuntu systems. It sets up the Python environment, necessary services (Flask app, Helper service), HAProxy configuration, and permissions.
 
 > [!WARNING]
 > Root access (`sudo`) is required to run the installation script.
@@ -85,8 +85,5 @@ If you find this panel useful and wish to support its development and public rel
 * **USDT (BEP20 Network - BSC):**
     `0x3729348A169359a8Aa70a0627f3737aF4c6D1929`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/USDT_(TRC20)-Donate-blue?logo=tether&color=26A17B" alt="Donate USDT TRC20"/>
-</p>
 
 Thank you for your support!
