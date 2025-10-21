@@ -44,7 +44,7 @@ Each user receives a unique subscription link (`/sub/<unique_token>`) which prov
 4.  **Platform Guides:** Step-by-step instructions for configuring secure DNS on various operating systems and devices.
 
 <p align="center">
-  <img src="placeholder_link_to_sub_screenshot.png" alt="Subscription Page Screenshot" width="700"/>
+  <img src="sub.PNG" alt="Subscription Page Screenshot" width="700"/>
   <br><em>(Replace placeholder_link_to_sub_screenshot.png with an actual screenshot URL)</em>
 </p>
 
