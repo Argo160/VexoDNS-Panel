@@ -40,7 +40,7 @@ Each user receives a unique subscription link (`/sub/<unique_token>`) which prov
 
 1.  **Automatic IP Registration:** Simply opening the page automatically detects the user's current IP address. If the user is active and the IP is new, it's instantly registered in AdGuard Home's allowed clients list and queued for the SNI server (if enabled).
 2.  **Usage Information:** Displays remaining time, remaining data volume, total used data, and current status (Active, Expired, Disabled, Limited).
-3.  **Connection Links:** Provides easy-to-copy DoT and DoH links, plus server IP addresses for DoU (DNS over UDP/QUIC) if configured.
+3.  **Connection Links:** Provides easy-to-copy DoT and DoH links, plus server IP addresses for Do53 (Plain DNS) if configured.
 4.  **Platform Guides:** Step-by-step instructions for configuring secure DNS on various operating systems and devices.
 
 <p align="center">
