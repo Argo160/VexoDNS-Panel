@@ -61,7 +61,7 @@ These apps streamline the connection process for users.
 
 **Main Dashboard:**
 <p align="center">
-  <img src="placeholder_link_to_main_screenshot.png" alt="Main Dashboard Screenshot" width="700"/>
+  <img src="main.PNG" alt="Main Dashboard Screenshot" width="700"/>
   <br><em>(Replace placeholder_link_to_main_screenshot.png with an actual screenshot URL)</em>
 </p>
 
