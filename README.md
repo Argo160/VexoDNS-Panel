@@ -1,6 +1,6 @@
 <p align="center">
   <img src="placeholder_link_to_logo.png" alt="AdGuard Panel Pro Logo" width="150"/> </p>
-<h1 align="center">AdGuard Panel Pro (HAProxy Edition) 🛡️ VexoDNS</h1>
+<h1 align="center">🛡️ Adguard DNS User Management Panel</h1>
 <p align="center">
   A powerful, multi-user web panel for managing AdGuard Home with enhanced features like time/volume limits, automatic HTTPS, and SNI integration.
 </p>
